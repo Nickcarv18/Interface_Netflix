@@ -1,6 +1,6 @@
 # Interface Netflix
 
-![Interface_Netflix](C:\Users\nicol\Desktop\Programação\Interface_Netflix\img\Interface_Netflix.JPG)
+![Interface_Netflix](https://github.com/Nickcarv18/Interface_Netflix/blob/master/img/Interface_Netflix.JPG)
 
 
 
