@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Utilizando tecnologias como HTML5, CSS3 e JavaScript, recriei a inetrface do Netflix. Nesse projeto utilizei  técnicas de CSS3 com containers e variáveis, elementos com Flexbox e plugins Jquery a favor da aplicação.
+Utilizando tecnologias como HTML5, CSS3 e JavaScript, recriei a interface do Netflix. Nesse projeto utilizei  técnicas de CSS3 com containers e variáveis, elementos com Flexbox e plugins Jquery a favor da aplicação.
